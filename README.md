@@ -1,4 +1,4 @@
-# Contact List Application
+# AJAX
 
 A dynamic, front-end web application built for Web Development I that interacts with a RESTful API to manage a contact list. 
 
